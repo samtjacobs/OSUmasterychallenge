@@ -17,3 +17,5 @@ It is two programs, plus one library, that demonstrate:
 * Complete commenting
 
 * Code repositroy use
+
+[Video](https://drive.google.com/a/oregonstate.edu/file/d/0B3u7w5dlfJRAMnQxYmkyZTVEcmM/view?usp=sharing)
